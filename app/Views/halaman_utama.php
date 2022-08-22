@@ -129,18 +129,19 @@
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="./<?= base_url() ?>/assets/img/banner_img_01.jpg" alt="">
+                            <img class="img-fluid" src="<?= base_url() ?>/assets/img/banner_img_01.png" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left align-self-center">
-                                <h1 class="h1 text-success"><b>Zay</b> eCommerce</h1>
-                                <h3 class="h2">Tiny and Perfect eCommerce Template</h3>
+                                <h1 class="h1 text-success"><b>Meja Rias</b> MR 2225</h1>
+                                <h3 class="h2">Graver Meja Rias Minimalis Agusto</h3>
                                 <p>
-                                    Zay Shop is an eCommerce HTML5 CSS template with latest version of Bootstrap 5 (beta 1).
-                                    This template is 100% free provided by <a rel="sponsored" class="text-success" href="https://templatemo.com" target="_blank">TemplateMo</a> website.
-                                    Image credits go to <a rel="sponsored" class="text-success" href="https://stories.freepik.com/" target="_blank">Freepik Stories</a>,
-                                    <a rel="sponsored" class="text-success" href="https://unsplash.com/" target="_blank">Unsplash</a> and
-                                    <a rel="sponsored" class="text-success" href="https://icons8.com/" target="_blank">Icons 8</a>.
+                                    Design terbaru Meja Rias + kursi puff, dari Graver, sistem bongkar pasang (Knockdown) juga diperbaharui dan disempurnakan untuk kemudahan konsumen dalam merakitnya dengan harga tetap terjangkau. Kaki dibuat lebih tinggi agar mudah membersihkan lantai di bawah, sehingga kebersihan ruang keluarga anda tetap terjaga. <br>
+                                    <b>
+                                        Panjang : 90 cm <br>
+                                        Lebar : 39 cm <br>
+                                        Tinggi : 136 cm
+                                    </b>
                                 </p>
                             </div>
                         </div>
@@ -151,15 +152,19 @@
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="./<?= base_url() ?>/assets/img/banner_img_02.jpg" alt="">
+                            <img class="img-fluid" src="<?= base_url() ?>/assets/img/banner_img_02.png" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
-                                <h1 class="h1">Proident occaecat</h1>
-                                <h3 class="h2">Aliquip ex ea commodo consequat</h3>
+                                <h1 class="h1 text-success"><b>Lemari</b> LP 2296 XL</h1>
+                                <h3 class="h2">Graver Lemari 2 Pintu Cermin Agusto</h3>
                                 <p>
-                                    You are permitted to use this Zay CSS template for your commercial websites.
-                                    You are <strong>not permitted</strong> to re-distribute the template ZIP file in any kind of template collection websites.
+                                    Design terbaru Lemari Pakaian 2 Pintu ukuran XTRA LARGE, dari Graver , sistem bongkar pasang (Knockdown) yang diterapkan oleh Graver juga diperbaharui dan disempurnakan untuk kemudahan konsumen dalam merakitnya dengan harga tetap terjangkau. Kaki Lemari Pakaian dibuat lebih tinggi agar mudah membersihkan lantai di bawah Lemari Pakaian, sehingga kebersihan ruang keluarga anda tetap terjaga. <br>
+                                    <b>
+                                        Panjang : 996 mm <br>
+                                        Lebar : 550 mm <br>
+                                        Tinggi : 2005 mm
+                                    </b>
                                 </p>
                             </div>
                         </div>
@@ -170,15 +175,21 @@
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="./<?= base_url() ?>/assets/img/banner_img_03.jpg" alt="">
+                            <img class="img-fluid" src="<?= base_url() ?>/assets/img/banner_img_03.png" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
-                                <h1 class="h1">Repr in voluptate</h1>
-                                <h3 class="h2">Ullamco laboris nisi ut </h3>
+                                <h1 class="h1 text-success"><b>Meja TV</b> CRD 2282</h1>
+                                <h3 class="h2">Graver Meja TV Credensa</h3>
                                 <p>
-                                    We bring you 100% free CSS templates for your websites.
-                                    If you wish to support TemplateMo, please make a small contribution via PayPal or tell your friends about our website. Thank you.
+                                    Detail dan spesifikasi produk furniture meja TV :<br>
+                                    * Type : meja TV (CRD 2282)<br>
+                                    * Ukuran : 120 x 39,6 x 59,6cm<br>
+                                    * Warna : Sonoma Oak + Putih Glossy<br>
+                                    * Material : Particle Board + MDF<br>
+                                    * Laminated : Paper + PVC <br>
+                                    * System : Knockdown produk buatan pabrik <br>
+                                    * Merk : Graver Furniture
                                 </p>
                             </div>
                         </div>
@@ -209,17 +220,17 @@
         </div>
         <div class="row">
             <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./<?= base_url() ?>/assets/img/category_img_01.jpg" class="rounded-circle img-fluid border"></a>
+                <a href="#"><img src="<?= base_url() ?>/assets/img/category_img_01.jpg" class="rounded-circle img-fluid border"></a>
                 <h5 class="text-center mt-3 mb-3">Watches</h5>
                 <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
             </div>
             <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./<?= base_url() ?>/assets/img/category_img_02.jpg" class="rounded-circle img-fluid border"></a>
+                <a href="#"><img src="<?= base_url() ?>/assets/img/category_img_02.jpg" class="rounded-circle img-fluid border"></a>
                 <h2 class="h5 text-center mt-3 mb-3">Shoes</h2>
                 <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
             </div>
             <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./<?= base_url() ?>/assets/img/category_img_03.jpg" class="rounded-circle img-fluid border"></a>
+                <a href="#"><img src="<?= base_url() ?>/assets/img/category_img_03.jpg" class="rounded-circle img-fluid border"></a>
                 <h2 class="h5 text-center mt-3 mb-3">Accessories</h2>
                 <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
             </div>
@@ -244,7 +255,7 @@
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="shop-single.html">
-                            <img src="./<?= base_url() ?>/assets/img/feature_prod_01.jpg" class="card-img-top" alt="...">
+                            <img src="<?= base_url() ?>/assets/img/feature_prod_01.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -268,7 +279,7 @@
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="shop-single.html">
-                            <img src="./<?= base_url() ?>/assets/img/feature_prod_02.jpg" class="card-img-top" alt="...">
+                            <img src="<?= base_url() ?>/assets/img/feature_prod_02.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -292,7 +303,7 @@
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="shop-single.html">
-                            <img src="./<?= base_url() ?>/assets/img/feature_prod_03.jpg" class="card-img-top" alt="...">
+                            <img src="<?= base_url() ?>/assets/img/feature_prod_03.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
