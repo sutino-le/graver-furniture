@@ -88,6 +88,7 @@
                         <span class="position-absolute top-0 left-100 translate-middle badge rounded-pill bg-light text-dark">7</span>
                     </a>
                     <a class="nav-icon position-relative text-decoration-none" href="#">
+                        Sutino
                         <i class="fa fa-fw fa-user text-dark mr-3"></i>
                         <span class="position-absolute top-0 left-100 translate-middle badge rounded-pill bg-light text-dark">+99</span>
                     </a>
@@ -336,11 +337,10 @@
             <div class="row">
 
                 <div class="col-md-4 pt-5">
-                    <h2 class="h2 text-success border-bottom pb-3 border-light logo">Zay Shop</h2>
+                    <h2 class="h2 text-success border-bottom pb-3 border-light logo">Graver Furniture</h2>
                     <ul class="list-unstyled text-light footer-link-list">
                         <li>
-                            <i class="fas fa-map-marker-alt fa-fw"></i>
-                            123 Consectetur at ligula 10660
+                            <a class="text-decoration-none" href="https://www.google.com/search?rlz=1C1CHBD_idID1000ID1000&tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALiCzsaGgCmnbpGYW9jbyseQzh_Uqz7SFQ:1661217535524&q=rackindo+setara+perkasa&rflfq=1&num=10&rldimm=9454104175095087122#rlfi=hd:;si:9454104175095087122;mv:[[-6.100543999999999,106.7097569],[-6.1151222,106.703463]];tbs:lrf:!1m4!1u2!2m2!2m1!1e1!2m1!1e2!3sIAE,lf:1,lf_ui:2" target="_blank"><i class="fas fa-map-marker-alt fa-fw"></i> Jl. Kapuk Kamal Indah 1 No.Kav 15 - 17, RT.9/RW.1, Kamal, Kec. Kalideres, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11810</a>
                         </li>
                         <li>
                             <i class="fa fa-phone fa-fw"></i>
